@@ -5,6 +5,8 @@ For a diff between two versions https://github.com/lexik/LexikJWTAuthenticationB
 
 ## [2.0](https://github.com/lexik/LexikJWTAuthenticationBundle/tree/2.0)
 
+* feature [\#184](https://github.com/lexik/LexikJWTAuthenticationBundle/pull/184) [Security] Depreciate current system in favor of a JWTTokenAuthenticator (Guard) ([chalasr](https://github.com/chalasr))
+
 * feature [\#202](https://github.com/lexik/LexikJWTAuthenticationBundle/pull/202) Exceptions simplified ([Spomky](https://github.com/Spomky))
 
 * feature [\#201](https://github.com/lexik/LexikJWTAuthenticationBundle/pull/201) Remove deprecated request injections ([chalasr](https://github.com/chalasr))
